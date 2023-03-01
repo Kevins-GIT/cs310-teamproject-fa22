@@ -18,7 +18,7 @@ continued.
 
 //Lines after line 19 count for I8 assignment//
 
-This was a group project we completed in Software Engineering 1 last semester with Dr. Snellen, in which the course taught use about the foundations of Scrum and introduced the students to use Github, as it would be the main method we would use for the project interms of compiling and sharing work.
+This was a group project we completed in Software Engineering 1 last semester with Dr. Snellen, in which the course taught use about the foundations of Scrum and introduced the students to use Github, as it would be the main method we would use for the project in terms of compiling and sharing work.
 
 After the students had become accustomed to using Github, such as pushing, forking, cloning, and more, Dr. Snellen had the students assigned to 5 to 6 different groups, each group hosting around 6 students. Soon after, the professor wanted each group to fork one of his repositories which we will all be focusing on for the rest of the semester. The situation we were acting is that we (the students) are given a project from our boss (professor), who explains what our client expects  to have ranging from functions to implementations similar to an employee clock-in machine. The professor would provide initial functions from a backlog to first implement so that the students can get a good understanding of later functions, which would be added from time to time as groups would complete functions waiting for more. But the overall goal, or what we are graded for, isn't to fully complete the project. The professor is evaluating how well we practice the scrum process during our work.
 
